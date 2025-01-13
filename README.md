@@ -45,6 +45,11 @@
 ![image](https://github.com/user-attachments/assets/1c6dbe05-81a9-4248-bc96-06644e211753)
 </div><br>
 
+### 3.3) 시스템 구조도
+<div align=center> 
+
+![사진_구조도](https://github.com/user-attachments/assets/bd565ccd-478c-49a3-af8e-be2468e9cf45)
+</div><br>
 <br>
 
 # 4. 일정 관리 및 수행 보고서
